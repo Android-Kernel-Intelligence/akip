@@ -1,0 +1,12 @@
+[submodule "akip-core"]
+	path = akip-core
+	url = https://github.com/Android-Kernel-Intelligence/akip-core
+[submodule "akip-worker"]
+	path = akip-worker
+	url = https://github.com/Android-Kernel-Intelligence/akip-worker
+[submodule "akip-web"]
+	path = akip-web
+	url = https://github.com/Android-Kernel-Intelligence/akip-web
+[submodule "akip-api"]
+	path = akip-api
+	url = https://github.com/Android-Kernel-Intelligence/akip-api
